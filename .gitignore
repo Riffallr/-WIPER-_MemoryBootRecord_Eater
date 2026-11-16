@@ -1,0 +1,9 @@
+.vs/
+MBR-Eater/
+x64/
+*.aps
+*.rc
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*vcxproj.user
